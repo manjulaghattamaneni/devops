@@ -1,3 +1,4 @@
 learning git
 ls
-learning git 
+learning git first file
+[A[A[B[Bfirst file
